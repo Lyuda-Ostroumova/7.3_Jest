@@ -24,7 +24,7 @@
     "test",
     "jsaqa"
   ],
-  "author": "omelnikova",
+  "author": "lostroumova",
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.5.1"
